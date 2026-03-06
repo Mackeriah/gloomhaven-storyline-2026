@@ -1,4 +1,4 @@
-# Gloomhaven storyline
+# Gloomhaven storyline - Mackeriah version
 
 The spoiler free storyline tracker for Gloomhaven.\
 Keep track of your progress of completed and unlocked scenarios!\
