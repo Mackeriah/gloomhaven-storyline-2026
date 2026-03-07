@@ -1,0 +1,7 @@
+services:
+  gloomhaven:
+    container_name: gloomhaven-storyline
+    build: .
+    ports:
+      - "8080:80"
+    restart: unless-stopped

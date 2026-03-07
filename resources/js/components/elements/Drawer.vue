@@ -27,7 +27,7 @@
                     -->
 
                     <ul ref="list" class="mdc-list">
-                        <li @click="toggle">
+                        <!-- <li @click="toggle">
                             <router-link to="/campaigns" class="mdc-list-item"
                                          active-class="mdc-list-item--activated">
                                 <i class="material-icons mdc-list-item__graphic"
@@ -37,7 +37,7 @@
                                     <span v-if="!user" class="ml-2 text-gold font-bold">{{ $t('Pro') }}</span>
                                 </span>
                             </router-link>
-                        </li>
+                        </li> -->
 
                         <li role="separator" class="mdc-list-divider !my-2"></li>
 
